@@ -1,6 +1,5 @@
-i'm gonna make a merge conflict.
+i'm not gonna make a merge conflict.
 
 BOOOOO
-
 
 this is not fun or exciting.
