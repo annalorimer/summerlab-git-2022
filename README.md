@@ -2,6 +2,10 @@
 
 # 0. Set Up
 
+1. Create a GitHub account
+2. Install Git
+3. Add an SSH key to GitHub account
+
 # 1. Explore the Repo
 
 # 2. Submit A PR
